@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Informasi Covid 19</string>
+    <string name="versi_1_0">Versi 1.0</string>
+    <string name="munkin_aplikasi_ini_masih_jauh_dari_kata_sempurna_di_karenakan_masih_proses_pembelajaran">munkin aplikasi ini masih jauh dari kata sempurna di karenakan masih proses pembelajaran.</string>
+    <string name="ini_adalah_program_pertama_saya_menggunakan_bahasa_kotlin">ini adalah program pertama saya menggunakan bahasa kotlin</string>
+</resources>
